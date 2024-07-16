@@ -2,8 +2,8 @@
 Changelog for package remote_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.0 (2024-07-16)
+------------------
 * moved to separate repo
 * ignore uncontrolled torque components
 * ditched yapf
